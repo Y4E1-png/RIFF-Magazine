@@ -8,6 +8,8 @@ Desarrollado como parte del programa de Desarrollo Front-End de EBAC para practi
 
 El sitio incluye una página de inicio con contenido destacado y vistas previas de artículos, además de una página de contacto.
 
+**Sitio publicado:** [RIFF Magazine](https://riffmagazine.web.app/)
+
 ## Funcionalidades
 
 - Navegación responsiva con un menú lateral en pantallas pequeñas.
