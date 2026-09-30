@@ -8,6 +8,8 @@ Developed as part of the Front-End Development program at EBAC to practice respo
 
 The website includes a homepage with featured content and article previews, plus a contact page.
 
+**Live demo:** [RIFF Magazine](https://riffmagazine.web.app/)
+
 ## Features
 
 - Responsive navigation with a sidebar menu on smaller screens.
